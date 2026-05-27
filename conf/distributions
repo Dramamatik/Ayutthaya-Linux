@@ -1,0 +1,6 @@
+Origin: Ayutthaya Linux
+Label: Ayutthaya
+Codename: focal
+Architectures: amd64
+Components: main
+Description: APT Repository for Ayutthaya Linux Custom Updates
